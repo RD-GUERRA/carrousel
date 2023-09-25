@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w185/juWq5f91rhWrxVThNwdpbhRLoQK.jpg" group-title="2023",Spy Kids: El armagedón (2023)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/juWq5f91rhWrxVThNwdpbhRLoQK.jpg" group-title="2023",Spy Kids: El armagedón (2023)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fseptiembre%2FVer%20Miniesp%C3%ADas-%20Armaged%C3%B3n%20online%20HD%20-%20Cuevana%202.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/6cZbQppNSELFdsV7gvrOflL6DWK.jpg" group-title="2023",¿Quieres ser mi... hijo? (2023)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fseptiembre%2FVer%20%C2%BFQuieres%20ser%20mi...%20hijo-%20online%20HD%20-%20Cuevana%202.mp4
@@ -218,29 +218,29 @@ https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fene%2FVer%20Winnie-the-Pooh-%20Blood%20and%20Honey%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/x7NTU1SYoMRIgQC0a1g53T7bKYV.jpg" group-title="2023",Bodas de plomo (2023)
 http://208.88.245.85/nuevo/bodas.deplomo.2023.dual.mkv
-#EXTINF:-1,Narvik (2023)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/jEQxdtCNpmN7ZHBtquHb41NVuAz.jpg" group-title="2023",Narvik (2023)
 http://208.88.245.85/nuevo/narvik.2023.dual.mkv
-#EXTINF:-1,Historia de Honor (2022)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/nxXJLtFRLnTP3Wm8g17i8ABxQ8o.jpg" group-title="2022",Historia de Honor (2022)
 http://208.88.245.85/nuevo/historia.dehonor.dual2023.mkv
-#EXTINF:-1,Dead Zone (2022)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/jZCzLnF0e70VrvccmJBQZWmM8pW.jpg" group-title="2022",Dead Zone (2022)
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fene%2FVer%20Dead%20Zone%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull_2.mp4
-#EXTINF:-1,Teen Wolf: The Movie (2023)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/foeDbOTaAYk5jfbsdnFyVzwLH0p.jpg" group-title="2023",Teen Wolf: The Movie (2023)
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fene%2FVer%20Teen%20Wolf-%20The%20Movie%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
-#EXTINF:-1,Amenaza explosiva (2022)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/AnRGjlewyTZj9lfZv3WM9ZTIXRD.jpg" group-title="2021",Amenaza explosiva (2021)
 http://vod.tuxchannel.mx/peliculas/720/balsinjehan%202021.mkv
-#EXTINF:-1,Mal de ojo (2022)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/lVRoLtpn4zq97YjTrCGsb5BlrW.jpg" group-title="2022",Mal de ojo (2022)
 http://vod.tuxchannel.mx/peliculas/720/mal%20de%20ojo%202022.mkv
-#EXTINF:-1,Tren Bala (2022)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/kM6iLHkDfyoMsTIm567mUFzFO9e.jpg" group-title="2022",Tren Bala (2022)
 http://vod.tuxchannel.mx/peliculas/720/bullet%20train%202022.mkv
-#EXTINF:-1,Pinocho (2022)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/1yIM2QL0qLzWMjTGuMX12yZnBtb.jpg" group-title="2022",Pinocho (2022)
 http://vod.tuxchannel.mx/peliculas/720/pinocchio%202022.mkv
-#EXTINF:-1,La Bestia (2022)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/hwSXDxFshOcfPfGNIQGpPK8hyGN.jpg" group-title="2022",La Bestia (2022)
 http://vod.tuxchannel.mx/peliculas/720/beast%202022.mkv
-#EXTINF:-1,Presencias (2022)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/dgDT3uol3mdvwEg0jt1ble3l9hw.jpg" group-title="2022",Presencias (2022)
 http://vod.tuxchannel.mx/peliculas/720/presencias%202022.mkv
-#EXTINF:-1,Samaritan (2022)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/z0de9eo5QznG9KEijDvROHrYSfo.jpg" group-title="2022",Samaritan (2022)
 http://vod.tuxchannel.mx/peliculas/720/samaritan%202022.mkv
-#EXTINF:-1,Cazando a Ava Bravo (2022)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/4yE9mowNKwROYoDzsa23fCadGLG.jpg" group-title="2022",Cazando a Ava Bravo (2022)
 http://vod.tuxchannel.mx/peliculas/720/hunting%20ava%20bravo%202022.mkv
 #EXTINF:-1,Gemelo Siniestro (2022)
 http://vod.tuxchannel.mx/peliculas/720/the%20twin%202022.mkv
