@@ -902,8 +902,210 @@ http://vod.tuxchannel.mx/peliculas/720/hubie%20halloween%202020.mkv
 https://snqplaypro.com/demotv/play/316.m3u8
 #EXTINF:-1 group-title="tv",ECDF 1
 http://miarea.vip:8080/AngelRestream@/PtoricoIpTv0o0/153191
-#EXTINF:-1 group-title="tv",ECDF 2
+#EXTINF:-1 group-title="tv",24 HORAS
+http://177.234.242.150:50032/play/a0gp/index.m3u8
+#EXTINF:-1 group-title="tv",70s Hits
+http://177.234.242.150:50032/play/a0d4/index.m3u8
+#EXTINF:-1 group-title="tv",80s Hits
+http://177.234.242.150:50032/play/a0d5/index.m3u8
+#EXTINF:-1 group-title="tv",AE Mundo
+http://177.234.242.150:50032/play/a0d1/index.m3u8
+#EXTINF:-1 group-title="tv",AXN
+http://177.234.242.150:50032/play/a0dy/index.m3u8
+#EXTINF:-1 group-title="tv",America TV HD
+http://177.234.242.150:50032/play/a0g9/index.m3u8
+#EXTINF:-1 group-title="tv",America TV PY
+http://177.234.242.150:50032/play/a0dr/index.m3u8
+#EXTINF:-1 group-title="tv",Animal Planet
+http://177.234.242.150:50032/play/a0cs/index.m3u8
+#EXTINF:-1 group-title="tv",Animal Planet HD
+http://177.234.242.150:50032/play/a0ff/index.m3u8
+#EXTINF:-1 group-title="tv",Around the World
+http://177.234.242.150:50032/play/a0f0/index.m3u8
+#EXTINF:-1 group-title="tv",BabyFirst
+http://177.234.242.150:50032/play/a0c2/index.m3u8
+#EXTINF:-1 group-title="tv",CHV
+http://177.234.242.150:50032/play/a0gn/index.m3u8
+#EXTINF:-1 group-title="tv",CNN Chile
+http://177.234.242.150:50032/play/a0bs/index.m3u8
+#EXTINF:-1 group-title="tv",CNN Espanol
+http://177.234.242.150:50032/play/a0c6/index.m3u8
+#EXTINF:-1 group-title="tv",Canal Caracol
+http://177.234.242.150:50032/play/a0gf/index.m3u8
+#EXTINF:-1 group-title="tv",Canal Claro
+http://177.234.242.150:50032/play/a048/index.m3u8
+#EXTINF:-1 group-title="tv",Canal Estrellas
+http://177.234.242.150:50032/play/a0d8/index.m3u8
+#EXTINF:-1 group-title="tv",Canal Uno
+http://177.234.242.150:50032/play/a0ge/index.m3u8
+#EXTINF:-1 group-title="tv",Cartoon Network
+http://177.234.242.150:50032/play/a0bv/index.m3u8
+#EXTINF:-1 group-title="tv",Cartoon Network HD
+http://177.234.242.150:50032/play/a0f9/index.m3u8
+#EXTINF:-1 group-title="tv",Cinecanal
+http://177.234.242.150:50032/play/a0bn/index.m3u8
+#EXTINF:-1 group-title="tv",Cinecanal HD
+http://177.234.242.150:50032/play/a0f4/index.m3u8
+#EXTINF:-1 group-title="tv",Cinemax
+http://177.234.242.150:50032/play/a0dw/index.m3u8
+#EXTINF:-1 group-title="tv",Claro Cinema
+http://177.234.242.150:50032/play/a0e7/index.m3u8
+#EXTINF:-1 group-title="tv",Classic Rock
+http://177.234.242.150:50032/play/a0d3/index.m3u8
+#EXTINF:-1 group-title="tv",Discovery Channel
+http://177.234.242.150:50032/play/a0gl/index.m3u8
+#EXTINF:-1 group-title="tv",Discovery ID
+http://177.234.242.150:50032/play/a0dd/index.m3u8
+#EXTINF:-1 group-title="tv",Discovery Kids
+http://177.234.242.150:50032/play/a0c5/index.m3u8
+#EXTINF:-1 group-title="tv",Discovery Turbo
+http://177.234.242.150:50032/play/a0e9/index.m3u8
+#EXTINF:-1 group-title="tv",Disney Channel
+http://177.234.242.150:50032/play/a0cq/index.m3u8
+#EXTINF:-1 group-title="tv",Disney Jr
+http://177.234.242.150:50032/play/a0ci/index.m3u8
+#EXTINF:-1 group-title="tv",E Entertainment
+http://177.234.242.150:50032/play/a0cu/index.m3u8
+#EXTINF:-1 group-title="tv",E! HD
+http://177.234.242.150:50032/play/a0fq/index.m3u8
+#EXTINF:-1 group-title="tv",ECDF SD
+http://177.234.242.150:50032/play/a0f1/index.m3u8
+#EXTINF:-1 group-title="tv",ESPN
+http://177.234.242.150:50032/play/a0cx/index.m3u8
+#EXTINF:-1 group-title="tv",ESPN 2
+http://177.234.242.150:50032/play/a0cl/index.m3u8
+#EXTINF:-1 group-title="tv",ESPN 2 Latin
+http://177.234.242.150:50032/play/a0cw/index.m3u8
+#EXTINF:-1 group-title="tv",ESPN 3
+http://177.234.242.150:50032/play/a0eb/index.m3u8
+#EXTINF:-1 group-title="tv",ESPN 4
+http://177.234.242.150:50032/play/a0dn/index.m3u8
+#EXTINF:-1 group-title="tv",ESPN CO
+http://177.234.242.150:50032/play/a0es/index.m3u8
+#EXTINF:-1 group-title="tv",ESPN EXTRA HD
+http://177.234.242.150:50032/play/a0f6/index.m3u8
+#EXTINF:-1 group-title="tv",ESPN HD
+http://177.234.242.150:50032/play/a0fo/index.m3u8
+#EXTINF:-1 group-title="tv",Ecuador TV
+http://177.234.242.150:50032/play/a0gj/index.m3u8
+#EXTINF:-1 group-title="tv",Ecuavisa
+http://177.234.242.150:50032/play/a0el/index.m3u8
+#EXTINF:-1 group-title="tv",ElCanaldelFutbol HD
 http://177.234.242.150:50032/play/a0fy/index.m3u8
+#EXTINF:-1 group-title="tv",Enlace
+http://177.234.242.150:50032/play/a0c0/index.m3u8
+#EXTINF:-1 group-title="tv",Esne TV
+http://177.234.242.150:50032/play/a0ea/index.m3u8
+#EXTINF:-1 group-title="tv",FX
+http://177.234.242.150:50032/play/a0e0/index.m3u8
+#EXTINF:-1 group-title="tv",Food Network HD
+http://177.234.242.150:50032/play/a0g8/index.m3u8
+#EXTINF:-1 group-title="tv",Fox Sports 2
+http://177.234.242.150:50032/play/a0d9/index.m3u8
+#EXTINF:-1 group-title="tv",Fox Sports 3
+http://177.234.242.150:50032/play/a0da/index.m3u8
+#EXTINF:-1 group-title="tv",France 24
+http://177.234.242.150:50032/play/a0de/index.m3u8
+#EXTINF:-1 group-title="tv",GOL TV
+http://177.234.242.150:50032/play/a0cy/index.m3u8
+#EXTINF:-1 group-title="tv",GamaTV
+http://177.234.242.150:50032/play/a0ds/index.m3u8
+#EXTINF:-1 group-title="tv",GolTV HD
+http://177.234.242.150:50032/play/a0fr/index.m3u8
+#EXTINF:-1 group-title="tv",Golden HD
+http://177.234.242.150:50032/play/a0fm/index.m3u8
+#EXTINF:-1 group-title="tv",HBO
+http://177.234.242.150:50032/play/a0dv/index.m3u8
+#EXTINF:-1 group-title="tv",HBO 2
+http://177.234.242.150:50032/play/a0ce/index.m3u8
+#EXTINF:-1 group-title="tv",HBO 2 HD
+http://177.234.242.150:50032/play/a0fd/index.m3u8
+#EXTINF:-1 group-title="tv",HBO Family
+http://177.234.242.150:50032/play/a0ch/index.m3u8
+#EXTINF:-1 group-title="tv",HBO HD
+http://177.234.242.150:50032/play/a0f7/index.m3u8
+#EXTINF:-1 group-title="tv",HBO Plus
+http://177.234.242.150:50032/play/a0cf/index.m3u8
+#EXTINF:-1 group-title="tv",HBO XTREME SD
+http://177.234.242.150:50032/play/a0cg/index.m3u8
+#EXTINF:-1 group-title="tv",History Channel
+http://177.234.242.150:50032/play/a0bm/index.m3u8
+#EXTINF:-1 group-title="tv",HomeandHealth
+http://177.234.242.150:50032/play/a0di/index.m3u8
+#EXTINF:-1 group-title="tv",I-Sat
+http://177.234.242.150:50032/play/a0bp/index.m3u8
+#EXTINF:-1 group-title="tv",Latina HD
+http://177.234.242.150:50032/play/a0fv/index.m3u8
+#EXTINF:-1 group-title="tv",Lifetime
+http://177.234.242.150:50032/play/a02p/index.m3u8
+#EXTINF:-1 group-title="tv",MTV
+http://177.234.242.150:50032/play/a0bq/index.m3u8
+#EXTINF:-1 group-title="tv",Nat Geo
+http://177.234.242.150:50032/play/a0bl/index.m3u8
+#EXTINF:-1 group-title="tv",Nat Geo HD
+http://177.234.242.150:50032/play/a0f2/index.m3u8
+#EXTINF:-1 group-title="tv",Nick Jr
+http://177.234.242.150:50032/play/a0e8/index.m3u8
+#EXTINF:-1 group-title="tv",Nickelodeon
+http://177.234.242.150:50032/play/a0bk/index.m3u8
+#EXTINF:-1 group-title="tv",Paramount HD
+http://177.234.242.150:50032/play/a0fa/index.m3u8
+#EXTINF:-1 group-title="tv",RCN Novelas
+http://177.234.242.150:50032/play/a0dc/index.m3u8
+#EXTINF:-1 group-title="tv",RTS
+http://177.234.242.150:50032/play/a0e4/index.m3u8
+#EXTINF:-1 group-title="tv",STAR CHANNEL
+http://177.234.242.150:50032/play/a0bt/index.m3u8
+#EXTINF:-1 group-title="tv",Sin Limites
+http://177.234.242.150:50032/play/a0dq/index.m3u8
+#EXTINF:-1 group-title="tv",Sony
+http://177.234.242.150:50032/play/a0dx/index.m3u8
+#EXTINF:-1 group-title="tv",Space
+http://177.234.242.150:50032/play/a0dz/index.m3u8
+#EXTINF:-1 group-title="tv",Stingray Concerts HD
+http://177.234.242.150:50032/play/a0g7/index.m3u8
+#EXTINF:-1 group-title="tv",Studio Universal
+http://177.234.242.150:50032/play/a036/index.m3u8
+#EXTINF:-1 group-title="tv",Studio Universal HD
+http://177.234.242.150:50032/play/a0fb/index.m3u8
+#EXTINF:-1 group-title="tv",SyFy
+http://177.234.242.150:50032/play/a0c4/index.m3u8
+#EXTINF:-1 group-title="tv",TBS
+http://177.234.242.150:50032/play/a0dg/index.m3u8
+#EXTINF:-1 group-title="tv",TC Television
+http://177.234.242.150:50032/play/a0ei/index.m3u8
+#EXTINF:-1 group-title="tv",TCM
+http://177.234.242.150:50032/play/a0bu/index.m3u8
+#EXTINF:-1 group-title="tv",TLC
+http://177.234.242.150:50032/play/a0d6/index.m3u8
+#EXTINF:-1 group-title="tv",TNT
+http://177.234.242.150:50032/play/a0bw/index.m3u8
+#EXTINF:-1 group-title="tv",TNT SPORTS 2
+http://177.234.242.150:50032/play/a0go/index.m3u8
+#EXTINF:-1 group-title="tv",TV+ HD
+http://177.234.242.150:50032/play/a00c/index.m3u8
+#EXTINF:-1 group-title="tv",TVE
+http://177.234.242.150:50032/play/a0c1/index.m3u8
+#EXTINF:-1 group-title="tv",Teleamazonas
+http://177.234.242.150:50032/play/a0em/index.m3u8
+#EXTINF:-1 group-title="tv",Telehit HD
+http://177.234.242.150:50032/play/a0fn/index.m3u8
+#EXTINF:-1 group-title="tv",Telemundo
+http://177.234.242.150:50032/play/a0db/index.m3u8
+#EXTINF:-1 group-title="tv",TyC
+http://177.234.242.150:50032/play/a0cz/index.m3u8
+#EXTINF:-1 group-title="tv",TyC Sports HD
+http://177.234.242.150:50032/play/a0fw/index.m3u8
+#EXTINF:-1 group-title="tv",Universal
+http://177.234.242.150:50032/play/a0bo/index.m3u8
+#EXTINF:-1 group-title="tv",ViaX
+http://177.234.242.150:50032/play/a0d7/index.m3u8
+#EXTINF:-1 group-title="tv",Warner
+http://177.234.242.150:50032/play/a0ct/index.m3u8
+#EXTINF:-1 group-title="tv",Win Sports+ HD
+http://177.234.242.150:50032/play/a0hf/index.m3u8
+#EXTINF:-1 group-title="tv",Zona Latina
+http://177.234.242.150:50032/play/a0br/index.m3u8
 
 #EXTINF:-1,Náufrago (2000)
 https://servidor-7.tk/Uploads/Aventura/Naufrago-2000-lat.mp4
