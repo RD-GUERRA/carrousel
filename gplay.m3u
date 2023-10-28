@@ -1377,7 +1377,7 @@ https://dl.dropboxusercontent.com/s/c54aqc2syzyzpxa/SalynPM-Holmes.and.watson.mp
 https://dl.dropboxusercontent.com/s/b7gkyurmmt610wr/Hotel.transylvania.2.mp4?dl=0
 #EXTINF:-1,Hotel Transylvania 3 (2018)
 https://dl.dropboxusercontent.com/s/15wooe59jbibhye/SalynPM.H.T.3.V.M.mp4?dl=0
-#EXTINF:-1,In-Actividad Paranormal (2014)
+#EXTINF:-1 group-title="2010",In-Actividad Paranormal (2014)
 https://dl.dropboxusercontent.com/s/34ftkx76j8sd5mk/A.Haunted.House.2.2014.bluray-latino-e-ingles-subt.mp4?dl=0
 #EXTINF:-1,Ingrid cambia de rumbo (2017)
 https://dl.dropboxusercontent.com/s/r51rmkp2gfg7zmn/SalynPM-Ingrid.mp4?dl=0
@@ -1992,7 +1992,7 @@ https://archive.org/download/02_20210719_20210719/02.mp4
 https://archive.org/download/02_20210719_20210719/03.mp4
 #EXTINF:-1  tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o858778_7216283.png",It
 https://archive.org/download/01_20211031_20211031_1955/01.mp4
-#EXTINF:-1  tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o858778_7216281.png",It: capÃ­tulo dos
+#EXTINF:-1  tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o858778_7216281.png" group-title="2010",It - capitulo dos
 https://archive.org/download/01_20211031_20211031_2044/01.mp4
 #EXTINF:-1  tvg-logo="null",Jackass 4.5 2022
 https://archive.org/download/01_20220529_20220529_1558/01.mp4
