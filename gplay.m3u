@@ -1,23 +1,33 @@
+
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/ivhOeG5S2CzKjcKhureKAtfonHg.jpg",Rebel Moon (Parte dos) (2024) group-title="Películas"
+#EXTINF:-1 tvg-name="Rebel Moon (Parte dos)" tvg-logo="https://image.tmdb.org/t/p/w185/ivhOeG5S2CzKjcKhureKAtfonHg.jpg" group-title="Películas",Rebel Moon (Parte dos) (2024)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fabr24%2FVer%20Rebel%20Moon%20-%20Parte%20Dos-%20La%20Guerrera%20que%20Deja%20Marcas%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/2R7RUo3EGs3T3UdKPlfVQWkyUCD.jpg",Rebel Moon (Parte uno) (2023)
+
+#EXTINF:-1 tvg-name="Rebel Moon (Parte uno)" tvg-logo="https://image.tmdb.org/t/p/w185/2R7RUo3EGs3T3UdKPlfVQWkyUCD.jpg" group-title="Películas",Rebel Moon (Parte uno) (2023)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fdiciembre%2FVer%20Rebel%20Moon%20(Parte%20uno)-%20La%20ni%C3%B1a%20del%20fuego%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/cI5C7NDOdEMWdoaECMX1LChwabd.jpg",Cazafantasmas: Apocalipsis Fantasma (2024)
+
+#EXTINF:-1 tvg-name="Cazafantasmas: Apocalipsis Fantasma" tvg-logo="https://image.tmdb.org/t/p/w185/cI5C7NDOdEMWdoaECMX1LChwabd.jpg" group-title="Películas",Cazafantasmas: Apocalipsis Fantasma (2024)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fabr24%2FVer%20Ghostbusters-%20Apocalipsis%20fantasma%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/dlLyYYKH4q52OnDZsxcDo2uECRl.jpg",El Pájaro Loco se va de campamento (2024)
+
+#EXTINF:-1 tvg-name="El Pájaro Loco se va de campamento" tvg-logo="https://image.tmdb.org/t/p/w185/dlLyYYKH4q52OnDZsxcDo2uECRl.jpg" group-title="Películas",El Pájaro Loco se va de campamento (2024)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fabr24%2FVer%20El%20P%C3%A1jaro%20Loco%20se%20va%20de%20campamento%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/tskjJSuOk1U8moEkCOPtetGTpFe.jpg",La primera profecía (2024) CAM
+
+#EXTINF:-1 tvg-name="La primera profecía" tvg-logo="https://image.tmdb.org/t/p/w185/tskjJSuOk1U8moEkCOPtetGTpFe.jpg" group-title="Películas",La primera profecía (2024) CAM
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fabr24%2FVer%20La%20primera%20profec%C3%ADa%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/q1DDwFuWeQlwR0lcjFiEsM8iRkd.jpg",Arthur (2024) CAM
+
+#EXTINF:-1 tvg-name="Arthur" tvg-logo="https://image.tmdb.org/t/p/w185/q1DDwFuWeQlwR0lcjFiEsM8iRkd.jpg" group-title="Películas",Arthur (2024) CAM
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fabr24%2FVer%20Arthur%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/2YqZ6IyFk7menirwziJvfoVvSOh.jpg",Godzilla y Kong: El nuevo imperio (2024) CAM
+
+#EXTINF:-1 tvg-name="Godzilla y Kong: El nuevo imperio" tvg-logo="https://image.tmdb.org/t/p/w185/2YqZ6IyFk7menirwziJvfoVvSOh.jpg" group-title="Películas",Godzilla y Kong: El nuevo imperio (2024) CAM
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fabr24%2FVer%20Godzilla%20y%20Kong-%20El%20nuevo%20imperio%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/5ssaCHmqvTZDVZtcNhNZTzfb7Nj.jpg",Baghead: Contacto con la muerte (2023) CAM
+
+#EXTINF:-1 tvg-name="Baghead: Contacto con la muerte" tvg-logo="https://image.tmdb.org/t/p/w185/5ssaCHmqvTZDVZtcNhNZTzfb7Nj.jpg" group-title="Películas",Baghead: Contacto con la muerte (2023) CAM
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fabr24%2FVer%20Baghead-%20Contacto%20Con%20La%20Muerte%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/jPhol6mXdnXYimRAgf3vlN9ZUZF.jpg",Imaginario: Juguete diabólico (2024)
+
+#EXTINF:-1 tvg-name="Imaginario: Juguete diabólico" tvg-logo="https://image.tmdb.org/t/p/w185/jPhol6mXdnXYimRAgf3vlN9ZUZF.jpg" group-title="Películas",Imaginario: Juguete diabólico (2024)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fmar24%2FVer%20Imaginario-%20juguete%20diab%C3%B3lico%20online%20HD%20-%20Cuevana%202.mp4
+
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/2YqZ6IyFk7menirwziJvfoVvSOh.jpg",Godzilla y Kong: El nuevo imperio (2024) CAM
