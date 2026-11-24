@@ -1637,3 +1637,24 @@ https://archive.org/download/01_20220818_20220818_1750/01.mp4
 https://archive.org/download/01_20220818_20220818_1753/01.mp4
 #EXTINF:-1 tvg-name="Yo soy Groot S01E05" group-title="Series"  tvg-logo="https://image.tmdb.org/t/p/w500/285ULt4SlLQiYabsFGzuAv9r8ww.jpg",Yo soy Groot S01E05 - Obra maestra
 https://archive.org/download/01_20220818_20220818_1758/01.mp4
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S01E01" group-title="Series | Breaking Bad",Breaking Bad - S01E01 - Pilot
+https://servidor.com/series/breakingbad/s01e01.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S01E02" group-title="Series | Breaking Bad",Breaking Bad - S01E02 - Cat's in the Bag
+https://servidor.com/series/breakingbad/s01e02.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S01E03" group-title="Series | Breaking Bad",Breaking Bad - S01E03 - ... 
+https://servidor.com/series/breakingbad/s01e03.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad S02E01" group-title="Series | Breaking Bad",Breaking Bad - S02E01 - Seven Thirty-Seven
+https://servidor.com/series/breakingbad/s02e01.mp4
+
+
+
+#EXTINF:-1 type="series" series-name="Breaking Bad" season="1" episode="1" group-title="Series",Breaking Bad S01E01
+https://servidor.com/episode1.mp4
+
+#EXTINF:-1 type="series" series-name="Breaking Bad" season="1" episode="2" group-title="Series",Breaking Bad S01E02
+https://servidor.com/episode2.mp4
