@@ -52,36 +52,43 @@ https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66
 #EXTINF:-1 tvg-name="Damsel" group-title="Películas",Damsel (2024)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fmar24%2FVer%20Damsel%20online%20HD%20-%20Cuevana%202.mp4
 
-#EXTINF:-1 tvg-name="Argylle Agente secreto" group-title="Películas",Argylle: Agente secreto (2024)
+#EXTINF:-1 tvg-name="Argylle: Agente secreto" tvg-logo="" group-title="Películas",Argylle: Agente secreto (2024)
 http://vod.tuxchannel.mx/peliculas/720/argylle%202024.mkv
 
-
-
-#EXTINF:-1,Dune: Parte dos (2024) CAM
+#EXTINF:-1 tvg-name="Dune: Parte dos" tvg-logo="" group-title="Películas",Dune: Parte dos (2024) CAM
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fmar24%2FVer%20Duna-%20Parte%20dos%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1,Dune: Parte uno (2021)
+
+#EXTINF:-1 tvg-name="Dune" tvg-logo="" group-title="Películas",Dune: Parte uno (2021)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fmar24%2FVer%20Duna%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1,El astronauta (2024)
+
+#EXTINF:-1 tvg-name="El astronauta" tvg-logo="" group-title="Películas",El astronauta (2024)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fmar24%2FVer%20El%20astronauta%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1,Código 8 (Parte 2) (2024)
+
+#EXTINF:-1 tvg-name="Código 8: Parte II" tvg-logo="" group-title="Películas",Código 8: Parte II (2024)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Ffeb24%2FVer%20C%C3%B3digo%208-%20Renegados%20(Parte%20II)%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1,Pobres criaturas (2023)
+
+#EXTINF:-1 tvg-name="Pobres criaturas" tvg-logo="" group-title="Películas",Pobres criaturas (2023)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Ffeb24%2FVer%20Pobres%20Criaturas%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1,Chicas malas (2024)
+
+#EXTINF:-1 tvg-name="Chicas malas" tvg-logo="" group-title="Películas",Chicas malas (2024)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Ffeb24%2FVer%20Chicas%20pesadas%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1,Megamind contra el sindicato del mal (2024) 
+
+#EXTINF:-1 tvg-name="Megamind contra el sindicato del mal" tvg-logo="" group-title="Películas",Megamind contra el sindicato del mal (2024)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fmar24%2FVer%20Megamente%20contra%20el%20sindicato%20de%20Doom%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1,Me llamo Loh Kiwan (2024)
+
+#EXTINF:-1 tvg-name="Me llamo Loh Kiwan" tvg-logo="" group-title="Películas",Me llamo Loh Kiwan (2024)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fmar24%2FVer%20Me%20llamo%20Loh%20Ki-wan%20online%20HD%20-%20Cuevana%202.mp4
 
-
-#EXTINF:-1,Madame Web (2024) CAM
+#EXTINF:-1 tvg-name="Madame Web" tvg-logo="" group-title="Películas",Madame Web (2024) CAM
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Ffeb24%2FVer%20Madame%20Web%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1,Bob Marley: la leyenda (2024) CAM
+
+#EXTINF:-1 tvg-name="Bob Marley: La leyenda" tvg-logo="" group-title="Películas",Bob Marley: La leyenda (2024) CAM
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Ffeb24%2FVer%20Bob%20Marley-%20La%20leyenda%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1,Buena hamburguesa 2 (2023)
+
+#EXTINF:-1 tvg-name="Buena hamburguesa 2" tvg-logo="" group-title="Películas",Buena hamburguesa 2 (2023)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Ffeb24%2FVer%20Buena%20hamburguesa%202%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:-1,Snoopy presenta: Bienvenido a la pandilla, Franklin (2024)
+
+#EXTINF:-1 tvg-name="Snoopy presenta: Bienvenido a la pandilla, Franklin" tvg-logo="" group-title="Películas",Snoopy presenta: Bienvenido a la pandilla, Franklin (2024)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Ffeb24%2FVer%20Snoopy%20presenta-%20Bienvenido%20a%20casa%2C%20Franklin%20online%20HD%20-%20Cuevana%202.mp4
 
 
