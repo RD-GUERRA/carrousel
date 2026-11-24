@@ -1107,9 +1107,7 @@ https://v900.streamhub.ink/hls/,sc6t2nbiwiytnuzvoxas5yr76tyk3tp2ro4hepqeraywva5d
 https://archive.org/download/01_20210930_20210930_0726/01.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/b6WCtZMerTNDxaMABi32EXeQ5ZX.jpg" tvg-name="Napoleon (2023)" group-title="Peliculas",Napoleon (2023)
 https://axa4wow3dcia.objectstorage.us-phoenix-1.oci.customer-oci.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/Ver%20Napole%C3%B3n%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull_3.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/b6WCtZMerTNDxaMABi32EXeQ5ZX.jpg" tvg-name="Napoleon (2023)" group-title="Peliculas",Napoleon (2023)
-https://od.lk/s/NV8xODkzOTY2NTNf/Ver%20Napole%C3%B3n%202023--.mp4
-https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fnoviembre%2FWatch%20Napoleon%202023%201080p%20CAMRip%20LAT%20DUB%20Juga%20Bet%20mkv.mp4
+
 #EXTINF:-1 tvg-name="Navidad cancelada (2021)" group-title="Peliculas"  tvg-logo="https://image.tmdb.org/t/p/w500/8cYsVKXdI9UmQ2vkdZK4GCb7dM6.jpg",Navidad cancelada (2021)
 https://ia804608.us.archive.org/33/items/01_20211222_20211222_0451/01.mp4
 #EXTINF:-1 tvg-name="Navidad de golpe (2022)" group-title="Peliculas"  tvg-logo="https://image.tmdb.org/t/p/w500/sXCR9cmG82NnKpKtO4LpqXqZAFR.jpg",Navidad de golpe (2022)
@@ -1633,11 +1631,11 @@ https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66
 #EXTINF:-1 tvg-name="キリンチャレンシカッフ2023 19:10キックオフ SAMURAI BLUE(日本代表) × チュニシア代表 (2021)" group-title="Peliculas"  tvg-logo="https://imgs1.e-droid.net/srv/imgs/cards/o858778_5592524.png",キリンチャレンシカッフ2023 19:10キックオフ SAMURAI BLUE(日本代表) × チュニシア代表 (2021)
 https://archive.org/download/01_20210623_20210623/01.mp4
 
-#EXTINF:-1 tvg-name="Yo soy Groot S01E01" group-title="Temporadas - Yo soy Groot - Temporada 01"  tvg-logo="https://image.tmdb.org/t/p/w500/hyHiJhvcd7sWF0dA6usu9ajYGXh.jpg",Yo soy Groot S01E01 - Los primeros pasos de Groot
+#EXTINF:-1 tvg-name="Yo soy Groot S01E01" group-title="Series"  tvg-logo="https://image.tmdb.org/t/p/w500/hyHiJhvcd7sWF0dA6usu9ajYGXh.jpg",Yo soy Groot S01E01 - Los primeros pasos de Groot
 https://archive.org/download/01_20220818_20220818_1755/01.mp4
-#EXTINF:-1 tvg-name="Yo soy Groot S01E02" group-title="Temporadas - Yo soy Groot - Temporada 01"  tvg-logo="https://image.tmdb.org/t/p/w500/285ULt4SlLQiYabsFGzuAv9r8ww.jpg",Yo soy Groot S01E02 - El Chiquitin
+#EXTINF:-1 tvg-name="Yo soy Groot S01E02" group-title="Series"  tvg-logo="https://image.tmdb.org/t/p/w500/285ULt4SlLQiYabsFGzuAv9r8ww.jpg",Yo soy Groot S01E02 - El Chiquitin
 https://archive.org/download/01_20220818_20220818_1750/01.mp4
-#EXTINF:-1 tvg-name="Yo soy Groot S01E04" group-title="Temporadas - Yo soy Groot - Temporada 01"  tvg-logo="https://image.tmdb.org/t/p/w500/sIyyJ8ifeMNNMewfLnYe0GU7OP.jpg",Yo soy Groot S01E04 - Groot toma un baño
+#EXTINF:-1 tvg-name="Yo soy Groot S01E04" group-title="Series"  tvg-logo="https://image.tmdb.org/t/p/w500/sIyyJ8ifeMNNMewfLnYe0GU7OP.jpg",Yo soy Groot S01E04 - Groot toma un baño
 https://archive.org/download/01_20220818_20220818_1753/01.mp4
-#EXTINF:-1 tvg-name="Yo soy Groot S01E05" group-title="Temporadas - Yo soy Groot - Temporada 01"  tvg-logo="https://image.tmdb.org/t/p/w500/285ULt4SlLQiYabsFGzuAv9r8ww.jpg",Yo soy Groot S01E05 - Obra maestra
+#EXTINF:-1 tvg-name="Yo soy Groot S01E05" group-title="Series"  tvg-logo="https://image.tmdb.org/t/p/w500/285ULt4SlLQiYabsFGzuAv9r8ww.jpg",Yo soy Groot S01E05 - Obra maestra
 https://archive.org/download/01_20220818_20220818_1758/01.mp4
